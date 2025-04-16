@@ -1,0 +1,6 @@
+<svg enable-background="new 0 0 580 580" height="580" viewBox="0 0 580 580" width="580" xmlns="http://www.w3.org/2000/svg">
+
+    <circle cx="290" cy="290" r="270" stroke="white" stroke-width="30" fill="rgb(0,86,126)" />
+    <circle cx="290" cy="290" r="150" stroke="rgb(255,255,255)" stroke-width="40" fill="none" />
+    <line x1="290" y1="80" x2="290" y2="500" stroke="rgb(255,255,255)" stroke-width="40"/>
+    </svg>

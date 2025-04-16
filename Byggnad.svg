@@ -1,0 +1,53 @@
+<svg enable-background="new 0 0 580 580" height="580" viewBox="0 0 580 580" width="580" xmlns="http://www.w3.org/2000/svg">
+
+    <path   d="M10 570 l 0 -370 l 280 -190 l 280 190 l 0 370 z" 
+            fill="rgb(0,86,126)" 
+            fill-opacity="1" 
+            stroke="rgb(208,208,204)" 
+            stroke-opacity="1" 
+            stroke-width="20"
+            /> 
+
+    <g
+        transform="translate(265,335)"
+    >
+        <g>
+            <path d="M0 0 l 0 75 c 0 65 -100 65 -100 0 c 0 -50 50 -50 75 -50"
+            fill="rgb(0,86,126)" 
+            fill-opacity="1" 
+            stroke="rgb(208,208,204)" 
+            stroke-opacity="1" 
+            stroke-width="20"/>
+        </g>
+        <g
+            transform="translate(25,-25) rotate(90)"
+        >
+        <path d="M0 0 l 0 75 c 0 65 -100 65 -100 0 c 0 -50 50 -50 75 -50"
+            fill="rgb(0,86,126)" 
+            fill-opacity="1" 
+            stroke="rgb(208,208,204)" 
+            stroke-opacity="1" 
+            stroke-width="20"/>
+        </g>
+        <g
+            transform="translate(50,0) rotate(180)"
+        >
+        <path d="M0 0 l 0 75 c 0 65 -100 65 -100 0 c 0 -50 50 -50 75 -50"
+            fill="rgb(0,86,126)" 
+            fill-opacity="1" 
+            stroke="rgb(208,208,204)" 
+            stroke-opacity="1" 
+            stroke-width="20"/>
+        </g>
+        <g
+            transform="translate(25,25) rotate(270)"
+        >
+        <path d="M0 0 l 0 75 c 0 65 -100 65 -100 0 c 0 -50 50 -50 75 -50"
+            fill="rgb(0,86,126)" 
+            fill-opacity="1" 
+            stroke="rgb(208,208,204)" 
+            stroke-opacity="1" 
+            stroke-width="20"/>
+        </g>
+    </g>
+</svg>
